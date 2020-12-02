@@ -17,7 +17,7 @@
 3. 불꽃을 쏴서 몬스터를 없앨 수 있습니다. 우주선을 움직여 총알을 피할 수 있습니다. 
 <img src="images/fire1.PNG" height="600px" width="400px"> <img src="images/fire2.PNG" height="600px" width="400px">  
 
-4. 게임 오버 시 닉네임을 입력합니다.  
+4. 게임 오버 시 닉네임을 입력받습니다.  
 <img src="images/input.PNG" height="300px" width="600px" >
 
 5. 닉네임과 점수가 점수판에 저장됩니다.  
