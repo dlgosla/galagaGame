@@ -4,5 +4,5 @@
 
 ## 프로젝트 내용
 1. 플레이어들의 점수판입니다. 점수가 높은 플레이어부터 순서대로 보여줍니다.
-<img src="2.PNG height="400px" width="600px">
+<img src="images/2.PNG height="400px" width="600px">
 
